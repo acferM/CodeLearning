@@ -9,8 +9,13 @@ this is basicly a website where i gather the places where i started learning web
 ### in this website you can learn:
 
 1- HTML5
+
 2- CSS3
+
 3- EchmaScript
+
 4- NodeJS (API + DataBases)
+
 5- ReactJS
+
 6- ReactNative
